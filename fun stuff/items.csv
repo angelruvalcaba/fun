@@ -1,0 +1,24 @@
+Items                      Stats,AD,Attack Speed,Crit,Lethality,%armPen,Ap,Abilit Haste,%mPen,HP,Armor,MR,HP regen,Mana,Mana regen,Life Steal,Omnivamp,MS,Total Cost,Mythic passive
+Shurelya's Battlesong,0,0,0,0,0,0,20,0,350,0,0,0,0,50,0,0,5,2700,2.5 ms
+Locket of the Iron Solari,0,0,0,0,0,0,20,0,200,30,30,0,0,0,0,0,0,2700,2 armor/mr aura
+Imperial Mandate,0,0,0,0,0,40,20,0,200,0,0,0,0,100,0,0,0,2700,15 Ap
+Moonstone Renewer,0,0,0,0,0,40,20,0,200,0,0,0,0,100,0,0,0,2700,5 ah
+Sufire Aegis,0,0,0,0,0,0,15,0,450,30,30,0,0,0,0,0,0,3200,5ah
+Hextech Rocketbelt,0,0,0,0,0,80,15,0,250,0,0,0,0,0,0,0,0,3200,5 flat mPen
+Riftmaker,0,0,0,0,0,80,15,0,150,0,0,0,0,0,0,15,0,3200,5% mPen
+Night Harvester,0,0,0,0,0,80,15,0,250,0,0,0,0,0,0,0,0,3200,5ah
+Frostfire Gauntlet,0,0,0,0,0,0,15,0,350,50,25,0,0,0,0,0,0,3200,100hp 7.5% size
+Turbo Chemtank,0,0,0,0,0,0,15,0,350,25,50,0,0,0,0,0,0,3200,5% Tenacity&slow res
+Duskblade of Draktharr,55,0,0,18,0,0,20,0,0,0,0,0,0,0,0,0,0,3200,5ah
+Eclipse,55,0,0,18,0,0,0,0,0,0,0,0,0,0,0,10,0,3200,%arm Pen
+Prowler's Claw,55,0,0,21,0,0,10,0,0,0,0,0,0,0,0,0,0,3200,5 Lethality
+Goredrinker,45,0,0,0,0,0,20,0,400,0,0,150,0,0,0,0,0,3300,5 ah
+Stridebreaker,50,20,0,0,0,0,10,0,300,0,0,0,0,0,0,0,0,3300,3% ms
+Divine Sunderer,40,0,0,0,0,0,20,0,400,0,0,0,0,0,0,0,0,3300,5% armpen&mpen
+Trinity Force,35,35,0,0,0,0,10,0,200,0,0,0,0,0,0,0,0,3333,10% as
+Liandry's Anguish,0,0,0,0,0,80,20,0,0,0,0,0,600,0,0,0,0,3400,5 ah
+Luden's Tempest,0,0,0,0,0,80,10,0,0,0,0,0,600,0,0,0,0,3400,5 mpen
+Everfrost,0,0,0,0,0,80,10,0,200,0,0,0,600,0,0,0,0,3400,15 ap
+Galeforce,55,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3400,3% ms
+Kraken Slayer,60,25,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3400,10% as
+Immortal Shieldbow,50,15,20,0,0,0,0,0,0,0,0,0,0,0,12,0,0,3400,5ad + 50hp
